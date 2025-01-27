@@ -1,2 +1,2 @@
 # Data-Analysis-Python
-End-to-end project for Data analysis consist of languages and tools are used to analyse and create helpful insights from sales data. This repository contains jupyter notebook using python ( pandas, numpy) language to perform data cleaning and preprocessing, Exploratory Data Analysis part. This project also adds SQL query to access and do specific changes to data, visuaization of sales dataset.
+Data analysis using python consist of, analyse and create helpful insights from sales data. This repository contains jupyter notebook using python ( pandas, numpy) language to perform data cleaning and preprocessing, Exploratory Data Analysis part. This project also adds specific changes to data, visuaization of sales dataset with helpful report.
