@@ -3,4 +3,4 @@
 ![image](https://github.com/user-attachments/assets/2973cc3b-aeac-4102-835d-a4a314dd6f45)
 
 
-Data analysis using python consist of, analyse and create helpful insights from sales data. This repository contains jupyter notebook using python ( pandas, numpy) language to perform data cleaning and preprocessing, Exploratory Data Analysis part. This project also adds specific changes to data, visuaization of sales dataset with helpful report.
+Data Analysis with Python: This project focuses on analyzing sales data using Python's powerful data analysis and visualization libraries: NumPy, Pandas, Matplotlib, and Seaborn. The goal is to derive actionable insights and trends from raw sales data.
