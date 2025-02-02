@@ -4,3 +4,6 @@
 
 
 Data Analysis with Python: This project focuses on analyzing sales data using Python's powerful data analysis and visualization libraries: NumPy, Pandas, Matplotlib, and Seaborn. The goal is to derive actionable insights and trends from raw sales data.
+
+This jupyter notebook contains DATA ANALYSIS WITH PYTHON based on Sales data which has Rows: 1000, Column:14.
+It includes step-by-step guide to collect, clean, analyse and vizualise the data. At the end it provide short report about the data.
