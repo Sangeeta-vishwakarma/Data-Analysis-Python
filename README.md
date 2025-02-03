@@ -10,4 +10,21 @@ It includes step-by-step guide to collect, clean, analyse and vizualise the data
 
 NOTE: Converted csv file into excel to get better data experience (in terms of date format) and visualization.
 
-Step-by-Step guide to Analyse the Data using Python
+**Step-by-Step guide to Analyse the Data using Python**
+
+1. **DATA COLLECTION**
+   - Load and Read the data using csv or excel file
+2. **DATA CLEANING**
+   - Sanity check for data
+   - Handlling missing value
+   - Remove duplicates/ unnecessary columns
+3. **EXPLORATORY DATA ANALYSIS**
+   - Check statistical summary of data
+   - Check distribution of data
+   - Plot boxplot to check outliers
+   - Check relationship of data
+4. **DERIVE NEW FEATURES**
+5. **VISUALIZATION**
+6. **REPORT**
+   - 
+     
